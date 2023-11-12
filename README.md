@@ -2,6 +2,13 @@
 
 This Burp Suite extension allows users to extract JavaScript file URLs from the sitemap of a targeted website. It offers the flexibility to select specific items from the sitemap and provides options to save the URLs to a file or copy them to the clipboard.
 
+
+
+https://github.com/PatrikFehrenbach/burpsuite-js-extractor/assets/9072595/0dfc85a9-584b-436b-b401-c90dd6bde803
+
+
+
+
 ## Installation
 
 1. **Download Jython**:
